@@ -14,7 +14,7 @@ class Node {
     }
 }
 
-public class T_2_LinkedList {
+public class T1_LinkedList {
 
     public static void main(String[] args) {
         int[] myArray = {1,3,6,4,9};
