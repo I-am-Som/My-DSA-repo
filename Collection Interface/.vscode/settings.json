@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "3.Queue/3.PriorityQueue",
+        "3.Queue/1.Queue",
+        "1.List/3.Stack",
+        "1.List/2.LinkedList",
+        "1.List/1.ArraytList",
+        "4.Map"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
